@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <dimen name="dim_titulo">50dp</dimen>
+    <dimen name="dim_boton">20dp</dimen>
+</resources>
